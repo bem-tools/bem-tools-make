@@ -1,4 +1,4 @@
-//var enb = require('enb');
+var enb = require('enb');
 
 module.exports = function() {
     this
