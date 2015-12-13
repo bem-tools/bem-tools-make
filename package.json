@@ -2,13 +2,13 @@
   "name": "bem-tools-make",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["bem", "BEM", "bem-tools", "bem make", "ENB", "bem tools"],
   "author": "",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "dependencies": {
     "enb": "^1.1.0"
   }
